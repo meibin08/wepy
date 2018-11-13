@@ -4,6 +4,14 @@
     " */": "****",
     "cases": [
         { 
+          "name": "码农书籍", 
+          "email": "mebin08@163.com", 
+          "link": "http://mp.weixin.qq.com/mp/homepage?__biz=MzA5MjQ0Mjk2NA==&hid=1&sn=d370c7a657363b9cd7967324bfa40d96&scene=18#wechat_redirect", 
+          "opensource": "", 
+          "qrcode": "https://user-images.githubusercontent.com/18324563/48411012-45a16980-e77b-11e8-96a8-ac116f76559f.png", 
+          "company": "" 
+        },
+        { 
           "name": "地铁轨交线路", 
           "email": "yuanfangde_hai@163.com", 
           "link": "", 
